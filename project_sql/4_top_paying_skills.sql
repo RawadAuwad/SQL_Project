@@ -30,6 +30,7 @@ Here's a breakdown of the results for top paying skills based on salary:
 - Big data skills command the highest salaries: PySpark ranks first at 208,172, followed by Databricks and Airflow, highlighting demand for large-scale data processing and data engineering.
 - AI and advanced analytics are valuable: Watson, DataRobot, Jupyter, Pandas, and scikit-learn feature prominently, suggesting that programming, machine learning, and statistical analysis are valuable skill combinations.
 - Top-paying analyst roles increasingly overlap with software engineering: Bitbucket, GitLab, Kubernetes, and Jenkins point to the value of version control, automation, and infrastructure skills. However, salary rankings reflect associations, not the direct salary premium of individual skills.
+
 [
   {
     "skills": "pyspark",

@@ -105,7 +105,7 @@ ORDER BY
 * **Programming Proficiency:** **Python** follows closely, featured in **7 jobs**. This underscores the market's heavy reliance on automated data pipelines, scripting, and advanced analytics.
 * **Data Visualization & Infrastructure:** **Tableau** is highly sought after (**6 appearances**), proving the vital importance of translating complex data into business decisions. Additionally, data cloud platforms like **Snowflake**, statistical tools like **R**, and fundamental libraries like **Pandas** exhibit significant demand in high-tier positions.
 
-![Frequent Skills Top Paying](assets/2_top_paying_roles_skills.png)
+![Frequent Skills Top Paying](assets/2_frequent_skills_top_paying.png)
 *Bar graph visualizing the most frequently mentioned skills for the top 10 paying jobs*
 ###### Note: Visualization generated via AI assistance based on my executed SQL query results.
 
@@ -133,7 +133,7 @@ ORDER BY
 LIMIT 5
 ```
 
-#### 📊 Market Demand Breakdown (Top 5 Skills):
+#### 📋 Market Demand Breakdown (Top 5 Skills):
 
 | Skills       | Demand Count |
 | :---         | :---         |
@@ -173,10 +173,8 @@ ORDER BY
 LIMIT 25
 ```
 
-#### 📊 Visual Analysis: Top 10 Highest-Paying Skills
-![Top 10 Highest-Paying Skills for Data Analysts](highest_paying_skills.png)
 
-#### 📋 Data Breakdown:
+#### 📋 Top 10 Highest-Paying Skills Breakdown:
 
 | Skills            | Average Salary ($) |
 | :---              | :---               |

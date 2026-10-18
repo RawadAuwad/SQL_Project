@@ -58,7 +58,7 @@ LIMIT 10
 * **Cross-Industry Demand:** Premium compensation is not limited to tech giants; leading companies across diverse sectors—such as **SmartAsset (FinTech), Meta (Big Tech), and AT&T (Telecom)**—are aggressively competing for top data talent.
 * **Role Specialization:** The wide variety in job titles (ranging from Senior Data Analyst to Director of Analytics) indicates that the market heavily rewards strategic leadership, data governance, and specialized analytical capabilities.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary distribution for the top 10 paying remote data analyst jobs*
 ###### Note: Visualization generated via AI assistance based on my executed SQL query results.
 
@@ -105,7 +105,7 @@ ORDER BY
 * **Programming Proficiency:** **Python** follows closely, featured in **7 jobs**. This underscores the market's heavy reliance on automated data pipelines, scripting, and advanced analytics.
 * **Data Visualization & Infrastructure:** **Tableau** is highly sought after (**6 appearances**), proving the vital importance of translating complex data into business decisions. Additionally, data cloud platforms like **Snowflake**, statistical tools like **R**, and fundamental libraries like **Pandas** exhibit significant demand in high-tier positions.
 
-![Frequent Skills Top Paying](assets\2_top_paying_roles_skills.png)
+![Frequent Skills Top Paying](assets/2_top_paying_roles_skills.png)
 *Bar graph visualizing the most frequently mentioned skills for the top 10 paying jobs*
 ###### Note: Visualization generated via AI assistance based on my executed SQL query results.
 
@@ -197,7 +197,7 @@ LIMIT 25
 * **DevOps & Data Pipeline Integration:** The high valuation of collaboration and deployment tools like **Bitbucket ($189,155)** and **GitLab ($154,500)** reveals a lucrative crossover. In Germany and global markets, companies heavily reward data professionals who understand version control workflows and automated pipeline infrastructure.
 * **Machine Learning & Cloud Platforms:** Specialized environments such as **DataRobot ($155,486)**, **Watson ($160,515)**, and cloud search systems like **Elasticsearch ($145,000)** emphasize the shifting paradigm. Modern enterprise roles demand more than basic analytics; they require readiness for machine learning integration and cloud infrastructure scalability.
 
-![Top Paying Skills](assets\3_top_paying_skills.png)
+![Top Paying Skills](assets/3_top_paying_skills.png)
 *Bar graph visualizing the top 10 skills by associated average salary*
 ###### Note: Visualization generated via AI assistance based on my executed SQL query results.
 

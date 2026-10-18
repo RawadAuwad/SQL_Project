@@ -39,15 +39,9 @@ ORDER BY
 
 /*
 The leading skills for data analysts in 2023, based on job postings are:
-- SQL:
-8 of 8 postings · 100%
-The strongest common requirement for querying and manipulating data.
-- Python:
-7 of 8 postings · 87.5%
-A major complementary skill for analysis, automation, and data processing.
-- Tableau:
-6 of 8 postings · 75%
-Strong demand for turning analytical results into dashboards and business insights.
+- SQL: 8 of 8 postings · 100% | The strongest common requirement for querying and manipulating data.
+- Python: 7 of 8 postings · 87.5% | A major complementary skill for analysis, automation, and data processing.
+- Tableau: 6 of 8 postings · 75% | Strong demand for turning analytical results into dashboards and business insights.
 Key insight: SQL appears in every posting, while Python and Tableau appear in most.
 Based on job postings, these three skills are the strongest foundation for someone targeting high-paying analyst roles.
 
